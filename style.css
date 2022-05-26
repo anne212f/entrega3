@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body {
-    background: url(/entrega-3/img/WhatsApp\ Image\ 2022-05-15\ at\ 8.04.49\ PM.jpeg);
+    background: url(./entrega-3/img/WhatsApp\ Image\ 2022-05-15\ at\ 8.04.49\ PM.jpeg);
     height: 100%;
     display: flex;
     flex-direction: column;
